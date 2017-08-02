@@ -1,0 +1,14 @@
+body {
+  background: aliceblue;
+}
+
+.red {
+	height: 500px;
+}
+
+h1 {
+	margin-top: 200px;
+	color:cyan;
+	padding: 0 100px;
+	font-size: 3em;
+}
